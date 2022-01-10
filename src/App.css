@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main {
+  max-width: 300px;
+  margin: 30px auto;
+  text-align: center;
+}
+.heading {
+  font-size: 14px;
+  font-weight: 400;
+  color: #1b1b1b;
+}
+button {
+  cursor: pointer;
+}
